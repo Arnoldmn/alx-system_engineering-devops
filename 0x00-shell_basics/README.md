@@ -10,3 +10,4 @@
 8-myfirstdelete - delete betty
 9-deletemydir -  delete my first directory
 10-back - Go back 1  directory
+11-lists - Script showing all files and also the boot order
