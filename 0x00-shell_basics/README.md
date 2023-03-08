@@ -5,3 +5,4 @@
 4-listsmorefiles - Displays current files including hidden files
 5-listdigionly - Display current directories and list in form of digits
 5-listdigionly - Display current directories and list IDs in form of digits
+6-firstdirectory - This script creates a directory named my_first_directory
