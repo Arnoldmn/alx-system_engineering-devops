@@ -3,3 +3,4 @@
 2-bing_me-home - Return user to home
 3-listfiles - Display all files with few details
 4-listsmorefiles - Displays current files including hidden files
+5-listdigionly - Display current directories and list in form of digits
