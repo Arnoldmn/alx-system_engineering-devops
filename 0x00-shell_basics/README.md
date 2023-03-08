@@ -9,3 +9,4 @@
 7-Movethatfile - Script to move betty to /tmp/my_first_directory
 8-myfirstdelete - delete betty
 9-deletemydir -  delete my first directory
+10-back - Go back 1  directory
