@@ -13,3 +13,4 @@
 11-lists - Script showing all files and also the boot order
 12-file_type - list the file type of the named lamafile
 13-symbolic_link - a symbolic link created in the current directory
+14-copy_html - copy all html files in our current working directory
