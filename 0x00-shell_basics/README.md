@@ -8,3 +8,4 @@
 6-firstdirectory - This script creates a directory named my_first_directory
 7-Movethatfile - Script to move betty to /tmp/my_first_directory
 8-myfirstdelete - delete betty
+9-deletemydir -  delete my first directory
