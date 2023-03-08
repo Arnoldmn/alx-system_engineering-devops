@@ -12,3 +12,4 @@
 10-back - Go back 1  directory
 11-lists - Script showing all files and also the boot order
 12-file_type - list the file type of the named lamafile
+13-symbolic_link - a symbolic link created in the current directory
