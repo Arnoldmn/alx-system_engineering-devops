@@ -1,5 +1,5 @@
 ## 0x00 Shell basic commands
-# Each command and its description 
+### Each command and its description 
 
 - 0-current working directory - Prints the absolute path name of the current working directory.
 - 1-listsit - Displays the content list of current directory
