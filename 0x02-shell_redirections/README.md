@@ -1,2 +1,3 @@
 # 0x02-shell_redirections
-### 0. Hello World: prints hello, world 
+* 0. Hello World: prints hello, world
+* 1-confused_smiley  
